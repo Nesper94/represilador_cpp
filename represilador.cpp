@@ -1,6 +1,6 @@
 /*
- * @file repressilator.cpp
- * @brief Silmulación del Represilador (Elowitz & Leibler, 2000) en C++
+ * @file represilador.cpp
+ * @brief Simulación del Represilador (Elowitz & Leibler, 2000) en C++
  *
  * Copyright 2021 Juan C. Arboleda R. <juan.arboleda2@udea.edu.co>
  *
